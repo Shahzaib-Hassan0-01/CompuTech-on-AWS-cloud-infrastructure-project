@@ -2,6 +2,7 @@
 *.pem
 *.ppk
 *.key
+~$*
 .env
 .aws/
 credentials
