@@ -1,0 +1,19 @@
+# Never commit credentials or keys
+*.pem
+*.ppk
+*.key
+.env
+.aws/
+credentials
+
+# Build / deploy artefacts
+*.zip
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
